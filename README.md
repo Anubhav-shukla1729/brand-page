@@ -27,4 +27,4 @@ Welcome to the **Shoe Brand Page**, built with **React**! Explore our modern and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/shoe-brand-page.git
+   git clone https://github.com/Anubhav-shukla1729/brand-page
